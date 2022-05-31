@@ -3,8 +3,8 @@ from telegram.ext import Updater, CommandHandler, Filters, MessageHandler
 import numpy as np
 import face_recognition
 
-TOKEN = '5128866034:AAHktgDUfM6B0coUlsVBbv1qQ5rvcvHsnkE'
-admin_id = 2143798298
+TOKEN = 'TOKEN'
+admin_id = 'admin_id'
 
 
 def start_command(update, context):
