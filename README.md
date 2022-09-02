@@ -1,3 +1,3 @@
 # Face-student-identification-project
 
-Bu botning asosiy vazifasi - Astrumga studentlarini yuzi orqali student haqida ma'lumotlarni olishdir.
+Bu botning asosiy vazifasi - Astrum studentlarini yuzi orqali student haqida ma'lumotlarni olishdir.
