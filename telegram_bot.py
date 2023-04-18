@@ -16,7 +16,8 @@ def start_command(update, context):
 def message_handler(update, context):
     message = update.message.text
     if message:
-        update.message.reply_text(text=f'Hurmatli {update.message.from_user.first_name.title()} botga faqat rasm tashlashingiz mumkin!')
+        update.message.reply_text(
+            text=f'Hurmatli {update.message.from_user.first_name.title()} botga faqat rasm tashlashingiz mumkin!')
 
 
 def photo_handler(update, context):
